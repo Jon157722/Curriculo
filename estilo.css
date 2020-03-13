@@ -1,0 +1,122 @@
+/* LIMPA FORMATAÇÕES PADRÃO */
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+
+	background:#4682B4;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	
+}
+
+header{
+
+    width: 80%;
+    margin: auto;
+    height: 300px;
+
+}
+
+#foto {
+    border-radius: 100%;
+    border: 5px solid white;
+    width: 250px;
+    height: 250px;
+    float: right;
+    margin-right: 10%;
+    margin-top: 20px;
+
+}
+
+#cabecalho {
+    height: 300px;
+    border: 1px solid #4682B4;
+    width: 80%;
+    margin: auto;
+}
+
+#cabecalho-dados {
+    font-size: 20px;
+    text-align: center;
+    color: white;
+    width: 50%;
+    font-family: family-name, generic-family, initial ,inherit;
+}
+
+#nome{
+    font-family: family-name,generic-family,initial,inherit;
+    font-size: 35px;
+    font-weight: bold;
+    margin-top: 110px;
+}
+
+#dados {
+    font-family: family-name,generic-family,initial,inherit;
+    font-size: 18px;
+    margin-top: 10px;
+    
+}
+
+#conteudo {
+
+    height: 300px;
+    width: 80%;
+    margin: auto;
+    background: white;
+    border: 1px solid white;
+}
+
+#conteudo-dados {
+
+    font-size: 20px;
+    text-align: center;
+    color: black;
+    width: 50%;
+    margin: auto;
+    margin-top: 10px;
+    font-family: family-name,generic-family,initial,inherit;
+    float: left;
+    line-height:30px;
+}
+
+#conteudo-dados2 {
+
+    font-size: 20px;
+    text-align: center;
+    color: black;
+    width: 50%;
+    margin: auto;
+    margin-top: 10px;
+    font-family: family-name,generic-family,initial,inherit;
+    margin-right: 0px;
+    line-height:30px;
+}
+
+#detalhe {
+
+    border-radius: 10px 30px 10px 30px;
+    width: 300px;
+    height: 40px;
+    background: #4682B4;
+    color: white;
+    margin: auto;
+    font-size: 23px;
+    font-weight: bold;
+    padding-top: 5px;
+    margin-bottom: 10px;
+    
+
+}
+
+.fundo-branco {
+    background: white;
+    width: 100%;
+    height: 680px;
+ 
+}
+
+
+
+ 
